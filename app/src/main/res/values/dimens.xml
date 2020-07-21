@@ -1,0 +1,13 @@
+<resources>
+
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="cards_elevation">3dp</dimen>
+
+    <dimen name="item_image_width">120dp</dimen>
+    <dimen name="item_image_height">80dp</dimen>
+
+</resources>

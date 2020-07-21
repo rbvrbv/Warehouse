@@ -1,0 +1,58 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/colorTextControl</item>
+        <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar.Primary</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorOnSecondary">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.Launcher">
+        <item name="android:windowBackground">@drawable/launch_screen</item>
+    </style>
+
+
+    <style name="EditTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox"/>
+
+    <style name="TextStyle" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="TextStyle.TextTitle">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextStyle.TextTitle2">
+        <item name="android:textSize">34sp</item>
+    </style>
+
+    <style name="TextStyle.TextPrice">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorPrice</item>
+    </style>
+
+    <style name="AppTheme.Search">
+        <item name="searchViewStyle">@style/SearchView</item>
+        <item name="android:textAppearanceMediumInverse">@style/TextStyle.SearchEditText</item>
+        <item name="colorAccent">@color/colorTextControl</item>
+    </style>
+
+    <style name="SearchView" parent="@style/Widget.AppCompat.SearchView">
+        <item name="android:background">@drawable/bg_search</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+
+    <style name="TextStyle.SearchEditText">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+
+</resources>

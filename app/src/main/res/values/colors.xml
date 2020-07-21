@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26517C</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorNavigationBar">#202020</color>
+    <color name="colorAccent">#F0F0F0</color>
+
+    <color name="colorPrice">#901010</color>
+
+    <color name="colorTextControl">#000000</color>
+
+    <color name="colorPressed">#F4F4F4</color>
+
+</resources>

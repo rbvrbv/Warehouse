@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search_menu_item"
+        android:icon="@drawable/search"
+        app:iconTint="@color/colorAccent"
+        android:title="@string/search_hint"
+        app:actionLayout="@layout/view_search"
+        app:showAsAction="collapseActionView|ifRoom"/>
+
+</menu>

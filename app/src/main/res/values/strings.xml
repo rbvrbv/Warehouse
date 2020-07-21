@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Warehouse</string>
+
+    <string name="item_fragment_title">Warehouse item</string>
+
+    <string name="item_hint_name">Name</string>
+    <string name="item_hint_price">Price</string>
+    <string name="item_save">Save</string>
+    <string name="item_delete">Delete</string>
+    <string name="item_cancel">Cancel</string>
+
+    <string name="delete_item_message">Delete item ?</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="item_image_change">Item image</string>
+    <string name="item_image_delete">Delete</string>
+    <string name="item_image_select">Select picture</string>
+    <string name="item_image_photo">Take photo</string>
+    <string name="item_image_delete_message">Delete item image ?</string>
+    <string name="item_image_photo_error">Error taking photo</string>
+    <string name="item_image_photo_select_title">Select item photo</string>
+    <string name="item_image_currency">rub.</string>
+
+    <string name="error_loading_file">Error loading photo file</string>
+    <string name="error_select_file">Error select photo file</string>
+
+    <string name="search_hint">Enter item name</string>
+
+</resources>
