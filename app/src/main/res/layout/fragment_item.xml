@@ -66,7 +66,6 @@
 
             <com.google.android.material.textfield.TextInputLayout
                 android:id="@+id/item_name_layout"
-                style="@style/EditTextInputLayoutStyle"
                 app:layout_constraintTop_toBottomOf="@id/item_image_card"
                 app:layout_constraintLeft_toRightOf="@id/item_guide_v1"
                 app:layout_constraintRight_toLeftOf="@id/item_guide_v2"
@@ -87,7 +86,6 @@
 
             <com.google.android.material.textfield.TextInputLayout
                 android:id="@+id/item_price_layout"
-                style="@style/EditTextInputLayoutStyle"
                 app:layout_constraintTop_toBottomOf="@id/item_name_layout"
                 app:layout_constraintLeft_toRightOf="@id/item_guide_v1"
                 app:layout_constraintRight_toLeftOf="@id/item_guide_v2"

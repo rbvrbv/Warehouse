@@ -1,4 +1,4 @@
-package su.rbv.ecwid_sklad.ui.item
+package su.rbv.ecwid_sklad.ui.main
 
 import android.content.Context
 import android.view.LayoutInflater

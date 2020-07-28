@@ -23,7 +23,6 @@ import su.rbv.ecwid_sklad.App
 import su.rbv.ecwid_sklad.Const
 import su.rbv.ecwid_sklad.R
 import su.rbv.ecwid_sklad.ui.Screens
-import su.rbv.ecwid_sklad.ui.item.ItemsListAdapter
 import su.rbv.ecwid_sklad.utils.confirmDialog
 import su.rbv.ecwid_sklad.utils.getQueryTextChangesAsFlow
 
